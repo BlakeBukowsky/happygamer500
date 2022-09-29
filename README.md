@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I am an intern for the XR company Healium.
+I do small projects every once in awhile, and will publish them here is I remember to do so before deleting them for space.
 <!--
 **HappyGamer500/happygamer500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
